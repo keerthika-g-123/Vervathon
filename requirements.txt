@@ -1,0 +1,7 @@
+langchain
+langchain-community
+py-localtunnel
+streamlit
+langchain-experimental
+langchain_huggingface
+huggingface_hub
